@@ -13,4 +13,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShariarNiaj05&theme=ocean_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=ocean_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShariarNiaj05&theme=ocean_dark&utcOffset=6)
